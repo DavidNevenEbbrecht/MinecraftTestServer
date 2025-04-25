@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1745518467638
+  login: 1745518431219
+money: '0'
+last-account-name: WarierSign
+logoutlocation:
+  world: 76178ae4-974d-44a2-87e9-c5b97b93afa0
+  world-name: world
+  x: 273.41150406114485
+  y: 109.19870331055832
+  z: 43.168358454307835
+  yaw: 150.14968872070312
+  pitch: 12.450037002563477

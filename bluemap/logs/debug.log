@@ -1,0 +1,4 @@
+[2025-04-25 05:44:11][WARNING] BlueMap is missing important resources!
+[2025-04-25 05:44:11][WARNING] You must accept the required file download in order for BlueMap to work!
+[2025-04-25 05:44:11][WARNING] Please check: /workspaces/MinecraftTestServer/plugins/BlueMap/core.conf
+[2025-04-25 05:44:11][INFO] If you have changed the config you can simply reload the plugin using: /bluemap reload
