@@ -4,5 +4,11 @@
     "name": "WarierSign",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b4295511-4913-46f7-b8d5-f15540a77de1",
+    "name": "Tetres2",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

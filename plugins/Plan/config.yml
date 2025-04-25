@@ -282,6 +282,8 @@ Plugins:
     Factions:
         HideFactions:
           - ExampleFaction
+    LuckPerms:
+        Enabled: true
     Permission Groups (Vault):
         Enabled: true
     Towny:

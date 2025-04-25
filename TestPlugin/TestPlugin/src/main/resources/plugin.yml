@@ -1,0 +1,6 @@
+main: TP.001.TestPlugin
+version: 1.0.0-SNAPSHOT
+name: TestPlugin
+author: WarierSign
+api-version: 1.20
+soft-depend: [PaperMC]
